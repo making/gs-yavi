@@ -17,7 +17,7 @@
 		<dependency>
 			<groupId>am.ik.yavi</groupId>
 			<artifactId>yavi</artifactId>
-			<version>0.7.0</version>
+			<version>0.8.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
@@ -28,7 +28,7 @@
 		<dependency>
 			<groupId>org.assertj</groupId>
 			<artifactId>assertj-core</artifactId>
-			<version>3.18.1</version>
+			<version>3.20.2</version>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
